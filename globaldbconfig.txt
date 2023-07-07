@@ -2,6 +2,8 @@
 
 ##DO NOT UPDATE THIS FILE ON THE EZPROXY SERVER ITSELF.  ANY CHANGE YOU MAKE THERE WILL BE ERASED.
 
+##Is this the end of the file server?
+
 ## UPDATE FILE AT CENTRAL LOCATION AT files.switchinc.org/var/www/html/ezproxy/globaldbconfig.txt
 
 #ABC-CLIO
